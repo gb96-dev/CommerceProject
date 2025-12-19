@@ -193,4 +193,4 @@ javaCustomerLevel level = switch (levelChoice) {
 Java 고급 문법: Enum, 제네릭, 람다식, 스트림 API
 컬렉션 프레임워크: List, Stream 활용
 예외 처리: 사용자 입력 검증 및 재고 관리
-실전 프로젝트 구조: 메뉴 구조 설계 및 흐름 제어
+실전 프로젝트 구조: 메뉴 구조 설계 및 흐름 제어    
